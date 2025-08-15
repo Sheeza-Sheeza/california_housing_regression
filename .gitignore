@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+venv/
+*.joblib
+*.pickle
+*.pkl
+.DS_Store
